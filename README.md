@@ -1,7 +1,6 @@
 # AutoFlask
 
 [![asciicast](https://asciinema.org/a/MgPqnItiS0Fj9VCcpq1A1eJWo.svg)](https://asciinema.org/a/MgPqnItiS0Fj9VCcpq1A1eJWo)
-<a href="https://asciinema.org/a/MgPqnItiS0Fj9VCcpq1A1eJWo" target="_blank"><img src="https://asciinema.org/a/MgPqnItiS0Fj9VCcpq1A1eJWo.svg" /></a>
 
 AutoFlask is a command-line utility designed to streamline the creation of Flask applications by generating a basic project structure with essential configurations. This tool sets up a Flask project skeleton, allowing developers to jumpstart their Flask application development with best practices in mind.
 
