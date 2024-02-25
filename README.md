@@ -93,7 +93,7 @@ if __name__ == '__main__':
 
 ## Contributing
 
-Contributions to AutoFlask are welcome! Please refer to the contributing guidelines for more details.
+Contributions to AutoFlask are welcome!
 
 ## License
 
