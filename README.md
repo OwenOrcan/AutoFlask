@@ -8,7 +8,7 @@ AutoFlask is a command-line utility designed to streamline the creation of Flask
 To install AutoFlask, you can use pip:
 
 ```bash
-pip install autoflask
+pip install autofl
 ```
 
 Ensure you have Flask installed in your environment or virtualenv where you plan to run AutoFlask.

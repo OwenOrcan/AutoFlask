@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='AutoFlask',
-    version='1.0',
+    name='AutoFL',
+    version='1.2',
     packages=find_packages(),
     author='Owen Orcan',
     author_email='owenorcan@gmail.com',
-    url='https://github.com/OwenOrcan/Yirabot-Crawler',
+    url='https://github.com/OwenOrcan/AutoFlask',
     license='MIT License',
     description="AutoFlask simplifies Flask project setup, automating the creation of essential files and directories with just one command.",
     long_description=open('README.md').read(),
